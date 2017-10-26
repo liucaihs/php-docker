@@ -1,0 +1,4 @@
+FROM registry-vpc.cn-shenzhen.aliyuncs.com/me2two/php56-apache:latest
+
+COPY . /var/www/html
+
